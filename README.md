@@ -2,7 +2,7 @@
 
 DevBoard is a sleek, dark-mode SaaS-style developer productivity dashboard designed to streamline daily workflows. Built with modern UI/UX principles, it's tailored for developers, freelancers, and remote tech professionals who want to stay focused and efficient.
 
-![DevBoard Screenshot](./31740001-ac02-4104-b301-761aa257b75f.png)
+![DevBoard Screenshot](src/image/devboard.png)
 
 ---
 
@@ -41,4 +41,3 @@ GitHub: @ibwmahin
 
 ⭐️ Show Your Support
 If you like this project, give it a ⭐ on GitHub — it motivates me to build more advanced and useful tools!
-
